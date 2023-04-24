@@ -7,8 +7,7 @@
   "homepage": "https://mods.factorio.com/mod/electric-ammo",
   "dependencies": [
     "base >= 1.1.0",
-    "FreightForwarding >= 1.6.1",
-    "? Krastorio2"
+    "FreightForwarding >= 1.6.1"
   ],
   "description": "Adds electric ammos, with power level similar to piercing rounds, that can be produced from charged batteries (from Freight Forwarding)",
   "factorio_version": "1.1"

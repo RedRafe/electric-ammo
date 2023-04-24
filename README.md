@@ -2,7 +2,7 @@
 
 ---
 
-Adds electric ammos, with power level similar to piercing rounds, that can be obtained from charged batteries [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding)
+Adds electric ammos, with power level similar to piercing rounds, that can be obtained from charged batteries of [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding)
 
 ## Features
 
@@ -10,6 +10,7 @@ Adds electric ammos, with power level similar to piercing rounds, that can be ob
 - Get Electric Ammos from charged batteries' electric source
 - Transferring energy between the objects has a small % chance of failing, but you can recharge empty batteries again
 
+![showcase-electric-ammo](https://github.com/RedRafe/electric-ammo/blob/main/archive/showcase.png?raw=true)
 
 ## Translation
 Available languages:
