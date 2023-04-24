@@ -22,5 +22,6 @@ You can help by translating this mod into your language. Any new translations wi
 
 ## Known Bugs & Mod compatibility
 Please feel free to report any known issue! :) 
-Requires [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding) mod
-Also supports [Krastorio2](https://mods.factorio.com/mod/Krastorio2)
+
+- Requires [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding) mod
+- Also supports [Krastorio2](https://mods.factorio.com/mod/Krastorio2) ammos & graphics
