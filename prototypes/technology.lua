@@ -12,7 +12,7 @@ data:extend({
         recipe = "electric-rounds-magazine"
       }
     },
-    prerequisites = {"military-science-pack", "ff-battery-charging"},
+    prerequisites = {"military-science-pack", ElectricAmmo.TECHNOLOGY_NAME},
     unit =
     {
       count = 150,

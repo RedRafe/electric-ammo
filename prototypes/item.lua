@@ -48,7 +48,7 @@ data:extend({
     main_product = "electric-rounds-magazine",
     category = "advanced-crafting",
     energy_required = 3,
-    ingredients = {{"ff-charged-battery", 2}},
+    ingredients = {{ElectricAmmo.BATTERY_NAME, 2}},
     results = {
       {
         name = "battery",

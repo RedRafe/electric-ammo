@@ -150,7 +150,7 @@ data:extend({
     main_product = "electric-pistol-rounds-magazine",
     category = "advanced-crafting",
     energy_required = 3,
-    ingredients = {{"ff-charged-battery", 1}},
+    ingredients = {{ElectricAmmo.BATTERY_NAME, 1}},
     results = {
       {
         name = "battery",
@@ -177,7 +177,7 @@ data:extend({
     main_product = "electric-anti-material-rounds-magazine",
     category = "advanced-crafting",
     energy_required = 3,
-    ingredients = {{"ff-charged-battery", 3}},
+    ingredients = {{ElectricAmmo.BATTERY_NAME, 3}},
     results = {
       {
         name = "battery",

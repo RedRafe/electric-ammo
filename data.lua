@@ -1,6 +1,7 @@
 ------ PROTOTYPES ------
 
-require "prototypes.electric-rounds-magazine"
+require "prototypes.shared"
+require "prototypes.item"
 require "prototypes.technology"
 
 ------ COMPATIBILITY ------

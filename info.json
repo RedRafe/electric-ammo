@@ -1,14 +1,15 @@
 {
   "name": "electric-ammo",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "title": "Electric Ammo",
   "author": "RedRafe",
   "source": "https://github.com/RedRafe/electric-ammo",
   "homepage": "https://mods.factorio.com/mod/electric-ammo",
   "dependencies": [
     "base >= 1.1.0",
-    "FreightForwarding >= 1.6.1"
+    "? FreightForwarding >= 1.6.1",
+    "? battery-powered"
   ],
-  "description": "Adds electric ammos, with power level similar to piercing rounds, that can be produced from charged batteries (from Freight Forwarding)",
+  "description": "Adds electric ammos, with power level similar to piercing rounds, that can be produced from charged batteries (from Freight Forwarding or Battery Powered mods). Also supports Krastorio2",
   "factorio_version": "1.1"
 }

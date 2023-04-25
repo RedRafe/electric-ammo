@@ -2,7 +2,7 @@
 
 ---
 
-Adds electric ammos, with power level similar to piercing rounds, that can be obtained from charged batteries of [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding)
+Adds electric ammos, with power level similar to piercing rounds, that can be obtained from charged batteries of [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding) or [Battery Powered](https://mods.factorio.com/mod/battery-powered)
 
 ## Features
 
@@ -23,5 +23,5 @@ You can help by translating this mod into your language. Any new translations wi
 ## Known Bugs & Mod compatibility
 Please feel free to report any known issue! :) 
 
-- Requires [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding) mod
+- Requires [Freight Forwarding](https://mods.factorio.com/mod/FreightForwarding) or [Battery Powered](https://mods.factorio.com/mod/battery-powered) mod
 - Also supports [Krastorio2](https://mods.factorio.com/mod/Krastorio2) ammos & graphics
